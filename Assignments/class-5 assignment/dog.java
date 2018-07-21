@@ -1,5 +1,5 @@
 
-public class dog extends animal {
+public class  extends animal {
 
     public void speak()
     {

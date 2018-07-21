@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class even_no {
+public class even{
 
      public static void main(String[] args) {
         int n;
@@ -10,9 +10,9 @@ public class even_no {
         n=s1.nextInt();
                
                 if(n%2==0)
-                System.out.println(n + "Number is even");
+                System.out.println(i + "Number is even");
                 else 
                 System.out.println("Number is not even");
-        
+        s1.close();
     }
 }

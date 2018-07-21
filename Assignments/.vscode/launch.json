@@ -1,0 +1,96 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+    
+        {
+            "type": "java",
+            "name": "Debug (Launch)-Larger_Num",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Larger_Num",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-leap",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "leap",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-palindrome",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "palindrome",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-pattern_1",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "pattern_1",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-prime",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "prime",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-print",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "print",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-reversal",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "reversal",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Launch)-sum",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "sum",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "Debug (Attach)",
+            "request": "attach",
+            "hostName": "localhost",
+            "port": 0
+        }
+    ]
+}
